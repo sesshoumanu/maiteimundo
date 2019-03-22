@@ -10,6 +10,7 @@ namespace gitest_th1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo, che kompañero");
         }
     }
 }
